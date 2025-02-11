@@ -97,3 +97,7 @@ Model yang telah **dituning dalam bahasa Indonesia** menunjukkan akurasi lebih t
   - Hal ini karena model seperti **BERT dan RoBERTa** telah dilatih dengan struktur Transformer yang efektif dalam memahami teks lintas bahasa, sehingga masih dapat menangani klasifikasi bahasa Indonesia meskipun tidak optimal.  
 
 ---
+### 🔗 Link Kode  
+- **Encoder Only (Bahasa Indonesia):** [Notebook Kaggle](https://www.kaggle.com/code/jihaadariefpangestu/encoder-only-task#Latihan-Kode)  
+- **Encoder Only (Bahasa Inggris):** [Notebook Kaggle](https://www.kaggle.com/code/almapermatasari/encoder-only-task/notebook)  
+- **Decoder Only + Encoder-Decoder:** [Notebook Kaggle](https://www.kaggle.com/code/retr0desk/decoder-only-task/notebook)  
